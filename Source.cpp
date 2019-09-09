@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("HELLOW Github");
+	printf("HELLOW Github\n");
+	printf{ "welcome to GitHub/n"};
 	return 0;
 }
